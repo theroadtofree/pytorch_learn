@@ -1,3 +1,8 @@
+'''
+python pytorch_TensorboardX.py
+tensorboard --logdir=runs
+http://localhost:6006/
+'''
 from torch.utils.tensorboard import SummaryWriter
 import numpy as np
 
